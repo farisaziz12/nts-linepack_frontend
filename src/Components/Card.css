@@ -1,0 +1,18 @@
+.card {
+    border: black solid;
+    width: 250px;
+    margin-left: 2%;
+    margin-bottom: 3%;
+    float: left;
+    background-color: black;
+    height: 150px;
+}
+
+.card-title {
+    font-size: 15px;
+    color: white;
+}
+
+.txt {
+    color: greenyellow;
+}
