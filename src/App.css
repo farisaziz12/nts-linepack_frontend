@@ -3,3 +3,10 @@
   color: white;
   text-align: center;
 }
+
+.today-cards-container{
+  align-content: center;
+}
+.tomorrow-cards-container{
+  align-content: center;
+}

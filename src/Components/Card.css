@@ -1,18 +1,37 @@
 .card {
-    border: black solid;
-    width: 250px;
+    width: 400px;
     margin-left: 2%;
     margin-bottom: 3%;
     float: left;
-    background-color: black;
-    height: 150px;
+    height: 120px;
 }
 
 .card-title {
     font-size: 15px;
-    color: white;
+    color: #81ADD0;
+    margin-left: 2%;
 }
 
-.txt {
-    color: greenyellow;
+.value {
+    color: white;
+    float: right;
+    margin-right: 2%;
+    font-size: 25px;
+    margin-top: 3%;
+}
+
+
+.value-diff{
+    float: right;
+    margin-top: 4%;
+    margin-right: 10%;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.date{ 
+    color: grey;
+    margin-left: 2%;
+    margin-top: -1.5%;
+    font-size: 16px;
 }
